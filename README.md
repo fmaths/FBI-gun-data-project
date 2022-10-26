@@ -1,5 +1,5 @@
 # FBI-gun-data-project
-A project on chances of buying a gun or an explosive in US
+A project on chances of buying a gun or an explosive in US: Using the FBI gun and US census data, I found that among all the states in the US, an applicant in Kentucky had the highest chance of being issued with a gun and other explosives
 ## by Fidelis Mukudi
 
 
